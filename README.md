@@ -353,6 +353,8 @@ GESTURE NODE: STABLE DUAL-ARM DELTA MAPPING ACTIVE
 ## End-Effector Pose Topics
 
 ```bash
+cd ~/sereact2/gesture_bot_ws
+docker compose run --rm gesture_bot bash
 ros2 topic echo /left_target_pose
 ros2 topic echo /right_target_pose
 ```
@@ -385,8 +387,6 @@ data: false
 ## Standard Joint States
 
 ```bash
-cd ~/sereact2/gesture_bot_ws
-docker compose run --rm gesture_bot bash
 ros2 topic echo /joint_states
 ```
 
