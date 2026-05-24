@@ -135,8 +135,18 @@ This project uses the following open-source tools/libraries:
 - OpenCV
 - Docker
 - Docker Compose
+### Credits
 
-Any reused packages/meshes should be acknowledged accordingly.
+1. Universal Robots — ROS2 Description Repository  
+   https://github.com/UniversalRobots/Universal_Robots_ROS2_Description.git
+
+2. PickNik Robotics — Robotiq Gripper Repository  
+   https://github.com/PickNikRobotics/ros2_robotiq_gripper.git
+
+3. William Woodall — Serial Communication Repository  
+   https://github.com/wjwwood/serial.git
+
+All referenced repositories were used strictly for research, integration, and learning purposes. The teleoperation logic, gesture-control pipeline, dual-arm coordination, delta-mapping control strategy, and ROS2 integration were implemented and modified specifically for this assignment.
 
 ---
 
