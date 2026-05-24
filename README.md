@@ -170,8 +170,10 @@ RViz Visualization
 
 ## 1. Clone Repository
 
+Either clone with the git repo or extract the zip file attached in submission link and proceed with the remaining process in terminal.
+
 ```bash
-git clone <YOUR_REPOSITORY_URL> gesture_bot_ws
+git clone https://github.com/AnanthaPrajith/sereact_teleoperation_task.git
 cd gesture_bot_ws
 ```
 
