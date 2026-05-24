@@ -385,6 +385,8 @@ data: false
 ## Standard Joint States
 
 ```bash
+cd ~/sereact2/gesture_bot_ws
+docker compose run --rm gesture_bot bash
 ros2 topic echo /joint_states
 ```
 
