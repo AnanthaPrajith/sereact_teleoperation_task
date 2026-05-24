@@ -184,7 +184,7 @@ cd gesture_bot_ws
 Open:
 
 ```bash
-nano src/gesture_teleop/gesture_teleop/gesture_control_node.py
+nano gesture_bot_ws/src/gesture_teleop/gesture_teleop/gesture_control_node.py
 ```
 
 Find:
