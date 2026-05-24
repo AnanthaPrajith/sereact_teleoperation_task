@@ -106,7 +106,7 @@ The project uses Git for version control.
 Clone locally:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/AnanthaPrajith/sereact_teleoperation_task.git
 ```
 
 ---
