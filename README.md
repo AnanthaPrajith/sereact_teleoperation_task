@@ -252,7 +252,7 @@ docker compose build
 # Launch Full System
 
 ```bash
-docker compose run --rm gesture_bot .
+docker compose run --rm gesture_bot
 ```
 
 This launches:
